@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e228bce3437988047b92c27e66177996
+guid: 0b2b35e5159c7604f9cb3acf4f5a1b96
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5531703080283891632
-    second: Tami png_0
+      213: -8637672832406616568
+    second: Yoav merkava siman 4 png_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Tami png_0
+      name: Yoav merkava siman 4 png_0
       rect:
         serializedVersion: 2
-        x: 118
+        x: 0
         y: 0
-        width: 278
-        height: 269
+        width: 624
+        height: 383
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0b7614fa4ae84cc40800000000000000
-      internalID: 5531703080283891632
+      spriteID: 8068c52c252d02880800000000000000
+      internalID: -8637672832406616568
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Tami png_0: 5531703080283891632
+      Yoav merkava siman 4 png_0: -8637672832406616568
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
